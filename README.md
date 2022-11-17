@@ -1,4 +1,4 @@
-# Parameterized-Image-Quality-Score-Distribution-Prediction
+# Image-Quality-Score-Distribution-Prediction-via-Alpha-Stable-Model
 Implementation of paper "Image Quality Score Distribution Prediction via Alpha Stable Model"
 
 STEP 1:
