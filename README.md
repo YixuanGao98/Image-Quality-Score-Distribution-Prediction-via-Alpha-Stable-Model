@@ -9,7 +9,5 @@ SJTU IQSD database can be find at 'https://drive.google.com/drive/folders/1I4mkm
 STEP 2:
 Running extract_feature.m to extract quality features of images, and saving the features as feature.mat
 
-STEP 3:
-Runing SVMmain.m to train images and get the prediceted parameters of test images.
 
 If you have any questions, please contact me: gaoyixuan@sjtu.edu.cn
